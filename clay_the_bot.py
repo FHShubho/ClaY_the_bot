@@ -221,7 +221,7 @@ clay.remove_command('help')
 #command list
 @clay.command(pass_context=True)
 async def help(ctx):
-    embed = discord.Embed(title = '📢Command list', description = 'Currently availabe Commands', colour = discord.Colour.green())
+    embed = discord.Embed(title = '📢Command list', description = 'Currently available Commands', colour = discord.Colour.green())
     embed.set_thumbnail(url=bot_icon)
     embed.set_footer(text='More information at https://github.com/FHShubho/ClaY_the_bot', icon_url=bot_icon)
 
