@@ -4,13 +4,23 @@
 
 
 
+- [Update Note 0.2](#update-note-0.2)
+- [Inviting the BOT](#invite-the-bot)
+- [Command Prefix](#command-prefix)
+- [Commands](#commands)
+- [Screenshots](#screenshots)
+
+
+
+#### Invite the BOT
+
 Invite to your server: [Invite ClaY the BOT](https://discord.com/api/oauth2/authorize?client_id=777850935477010454&permissions=8&scope=bot)
 
 
 
 #### Command Prefix
 
-Use _ as command prefix
+Use `_` as command prefix
 
 
 
@@ -45,6 +55,14 @@ Use _ as command prefix
   
 
   I'll add more commands in future.
+
+
+
+#### Update Note 0.2
+
+- The BOT now motivates Abrar, one of our friend and former Valorant player to come back with few random messages.
+
+  ![](https://github.com/FHShubho/ClaY_the_bot/blob/main/images/Screenshot_499.png)
 
 
 
