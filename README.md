@@ -4,7 +4,7 @@
 
 
 
-- [Update Note 0.2](#update-note_0.2)
+- [Update Note 0.2](#update-note-02)
 - [Inviting the BOT](#invite-the-bot)
 - [Command Prefix](#command-prefix)
 - [Commands](#commands)
@@ -58,7 +58,7 @@ Use `_` as command prefix
 
 
 
-### Update Note_0.2
+### Update Note 0.2
 
 - The BOT now motivates Abrar, one of our friend and former Valorant player to come back with few random messages.
 
