@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands, tasks
 import datetime
+import random
 
 intents = discord.Intents.default()
 intents.members = True
@@ -254,6 +255,22 @@ async def features(ctx):
     embed.add_field(name='GitHub Repo', value='🔗https://github.com/FHShubho/ClaY_the_bot', inline=False)
 
     await ctx.send(embed=embed)
+
+
+#Motivating abrar to come back to valorant with random messages
+barta = open('barta.txt', 'r').readlines()
+
+@clay.event
+async def on_message(message):
+    lekhok = message.author.id
+    if lekhok == 409442871775854595:
+        temp = random.randint(0,3)
+        if temp == 2:
+            temp_number = random.randint(0, 10)
+            monu = barta[temp_number]
+            channel = message.channel
+            author = message.author
+            await channel.send(f'{author.mention} ' + monu)
 
 
 #Error message
