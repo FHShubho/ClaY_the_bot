@@ -4,7 +4,7 @@
 
 
 
-- [Update Note 0.2](#update-note-0.2)
+- [Update Note 0.2](#update-note)
 - [Inviting the BOT](#invite-the-bot)
 - [Command Prefix](#command-prefix)
 - [Commands](#commands)
@@ -12,19 +12,19 @@
 
 
 
-#### Invite the BOT
+### Invite the BOT
 
 Invite to your server: [Invite ClaY the BOT](https://discord.com/api/oauth2/authorize?client_id=777850935477010454&permissions=8&scope=bot)
 
 
 
-#### Command Prefix
+### Command Prefix
 
 Use `_` as command prefix
 
 
 
-#### Commands
+### Commands
 
 - `_ping`	: Replies latency time
 
@@ -58,7 +58,7 @@ Use `_` as command prefix
 
 
 
-#### Update Note 0.2
+### Update Note 0.2
 
 - The BOT now motivates Abrar, one of our friend and former Valorant player to come back with few random messages.
 
@@ -66,7 +66,7 @@ Use `_` as command prefix
 
 
 
-#### Screenshots
+### Screenshots
 
 ![](https://github.com/FHShubho/ClaY_the_bot/blob/main/images/Screenshot_340.png)
 
