@@ -60,7 +60,7 @@ Use `_` as command prefix
 
 ### Update Note 0.2
 
-- The BOT now motivates Abrar, one of our friend and former Valorant player to come back with few random messages.
+- ClaY the BOT now motivates Abrar, one of our friend and former Valorant player to come back with few random messages.
 
   ![](https://github.com/FHShubho/ClaY_the_bot/blob/main/images/Screenshot_499.png)
 
